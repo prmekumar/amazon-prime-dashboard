@@ -11,7 +11,7 @@ The dashboard provides insights into content distribution, genres, ratings, rele
 # Dashboard Preview
 
 ## Full Dashboard
-![Dashboard Full](screenshots/dashboard_full.png)
+![Dashboard Full](screenshots/amazon prime dashboard.png)
 
 ## Filtered Dashboard
 ![Dashboard Filtered](screenshots/dashboard_filtered.png)
