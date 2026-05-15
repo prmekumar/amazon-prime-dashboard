@@ -62,25 +62,7 @@ Amazon Prime Movies and TV Shows Dataset
 
 ---
 
-# Project Structure
 
-```bash
-amazon-prime-dashboard/
-│
-├── AmazonPrimeDashboard.pbix
-├── amazon_prime_titles.csv
-├── README.md
-└── screenshots/
-    ├── dashboard_full.png
-    └── dashboard_filtered.png
-```
-
----
-
-# How to Use
-1. Download the `.pbix` file.
-2. Open using Power BI Desktop.
-3. Explore the dashboard using filters and visuals.
 
 ---
 
