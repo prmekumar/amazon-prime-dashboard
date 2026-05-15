@@ -76,6 +76,12 @@ amazon-prime-dashboard/
     └── filter by drama genre.png
 ```
 
+
+# Dataset
+The dataset used for this project was too large to upload to GitHub.  
+This dashboard was created using the Amazon Prime Movies and TV Shows dataset.
+
+
 ---
 
 # How to Use
