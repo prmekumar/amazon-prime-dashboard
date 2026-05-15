@@ -1,20 +1,21 @@
-# amazon-prime-dashboard
-
 # Amazon Prime Dashboard
 
 ## Overview
 This project is an interactive Power BI dashboard created using the Amazon Prime Movies and TV Shows dataset.  
-The dashboard provides insights into content distribution, genres, ratings, release trends, countries, and movie vs TV show analysis.
+The dashboard provides insights into genres, ratings, release trends, countries, and movie vs TV show analysis.
 
 ---
 
 # Dashboard Preview
 
 ## Full Dashboard
-![Dashboard Full](screenshots/amazon prime dashboard.png)
+![Dashboard](screenshots/amazon%20prime%20dashboard.png)
 
-## Filtered Dashboard
-![Dashboard Filtered](screenshots/dashboard_filtered.png)
+## Filtered Dashboard - Country Filter
+![Country Filter](screenshots/filter%20by%20country.png)
+
+## Filtered Dashboard - Drama Genre Filter
+![Drama Genre Filter](screenshots/filter%20by%20drama%20genre.png)
 
 ---
 
@@ -35,7 +36,7 @@ The dashboard provides insights into content distribution, genres, ratings, rele
   - Total Shows by Release Year
 
 - Interactive Filtering
-- Dark Theme Dashboard Design
+- Dark Theme Dashboard
 - Data Analysis using Power BI
 
 ---
@@ -57,12 +58,32 @@ Amazon Prime Movies and TV Shows Dataset
 # Key Insights
 - Drama is the most common genre.
 - Movies dominate the platform content.
-- Most content was released after 2000.
-- Content production increased rapidly after 2015.
+- Content production increased rapidly after 2000.
+- USA and India contain large amounts of content.
 
 ---
 
+# Project Structure
 
+```bash
+amazon-prime-dashboard/
+│
+├── AmazonPrimeDashboard.pbix
+├── README.md
+└── screenshots/
+    ├── amazon prime dashboard.png
+    ├── filter by country.png
+    └── filter by drama genre.png
+```
+
+---
+
+# How to Use
+1. Download the `.pbix` file.
+2. Open using Power BI Desktop.
+3. Explore the dashboard using filters and visuals.
+
+---
 
 # Author
 Prem Kumar
